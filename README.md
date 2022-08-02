@@ -1,8 +1,8 @@
 # 30-Whack-a-Mole
 
-Date: August 1, 2022
+Date: August 2, 2022
 
-# TwentyNinth challange of [JavaScript30](https://javascript30.com/)
+# Thirtieth challange of [JavaScript30](https://javascript30.com/)
 
 Its a game made with JavaScript. To experience on your own visit [here](https://Rohit-Saini7.github.io/30-Whack-a-Mole/).
 
